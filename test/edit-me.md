@@ -29,6 +29,8 @@ Oh no!
 
 
 👉 Download the image in the test folder, robot.jpg. Then drag and drop the image from your computer into this document anywhere you like.
+![robot](https://user-images.githubusercontent.com/15270811/189772739-3b25af6d-13ee-4d99-8e9d-ef5315373b86.jpg)
+
 
 
 👉 When you've completed all these steps, enter DONE into the bigger text box and commit your changes below.
